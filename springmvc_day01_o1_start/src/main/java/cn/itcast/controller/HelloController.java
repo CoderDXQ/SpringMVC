@@ -20,7 +20,7 @@ public class HelloController {
         return "success";
     }
 
-    @RequestMapping(path = "/testRequestMapping")
+    @RequestMapping(path = "/testRequestMapping", params = {"username=hehe"}, headers = {"Accept"})
     public String testRequestMapping() {
         System.out.println("测试RequestMapping注解。。。");
         return "success";

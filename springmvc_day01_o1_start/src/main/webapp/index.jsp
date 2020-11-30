@@ -23,7 +23,7 @@
 <%--     <h3>测试RequestMapping注解</h3>--%>
 <%--    href是属性名即路径中的字符串，尖号之间是页面上显示的东西--%>
 <%--    控制器HelloController类中嵌套了@RequestMapping注解，所以href要加分隔符--%>
-    <a href="user/testRequestMapping">测试RequestMapping注解</a>
+    <a href="user/testRequestMapping?username=hehe">测试RequestMapping注解</a>
 
 </body>
 </html>
