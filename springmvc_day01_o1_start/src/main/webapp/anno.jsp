@@ -29,5 +29,16 @@
 <br>
 <a href="anno/testCookieValue">RequestHeader</a>
 
+<form action="anno/testModelAttribute" method="post">
+    用户姓名：<input type="text" name="uname" /><br/>
+    用户年龄：<input type="text" name="age" /><br/>
+    <input type="submit" value="提交" />
+</form>
+
+<br>
+<a href="anno/testSessionAttributes">testSessionAttributes</a>
+<a href="anno/getSessionAttributes">getSessionAttributes</a>
+<a href="anno/delSessionAttributes">delSessionAttributes</a>
+
 </body>
 </html>

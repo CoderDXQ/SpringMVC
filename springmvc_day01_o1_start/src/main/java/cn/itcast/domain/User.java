@@ -3,6 +3,7 @@ package cn.itcast.domain;
 import org.springframework.web.servlet.view.InternalResourceViewResolver;
 
 import java.io.Serializable;
+import java.util.Date;
 
 /**
  * @author Duan Xiangqing
@@ -12,9 +13,27 @@ import java.io.Serializable;
 public class User implements Serializable {
     private String uname;
     private Integer age;
+    private Date date;
 
     public String getUname() {
         return uname;
+    }
+
+    public Date getDate() {
+        return date;
+    }
+
+    @Override
+    public String toString() {
+        return "User{" +
+                "uname='" + uname + '\'' +
+                ", age=" + age +
+                ", date=" + date +
+                '}';
+    }
+
+    public void setDate(Date date) {
+        this.date = date;
     }
 
     public void setUname(String uname) {
@@ -29,11 +48,4 @@ public class User implements Serializable {
         this.age = age;
     }
 
-    @Override
-    public String toString() {
-        return "User{" +
-                "uname='" + uname + '\'' +
-                ", age=" + age +
-                '}';
-    }
 }
