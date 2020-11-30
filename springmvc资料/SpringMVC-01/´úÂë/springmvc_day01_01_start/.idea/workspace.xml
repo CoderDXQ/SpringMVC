@@ -23,14 +23,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea1ee6e0-5fa2-4060-a9f4-f87e56a7262d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../../springmvc_day01_o1_start/src/main/java/cn/itcast/controller/ParamController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../springmvc_day01_o1_start/src/main/webapp/param.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../springmvc_day01_o1_start/src/main/java/cn/itcast/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springmvc_day01_o1_start/src/main/java/cn/itcast/controller/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../springmvc_day01_o1_start/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springmvc_day01_o1_start/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../springmvc_day01_o1_start/target/classes/cn/itcast/controller/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springmvc_day01_o1_start/target/classes/cn/itcast/controller/HelloController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../springmvc_day01_o1_start/src/main/java/cn/itcast/domain/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../springmvc_day01_o1_start/src/main/java/cn/itcast/domain/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../springmvc_day01_o1_start/src/main/java/cn/itcast/controller/ParamController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springmvc_day01_o1_start/src/main/java/cn/itcast/controller/ParamController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../springmvc_day01_o1_start/src/main/webapp/param.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springmvc_day01_o1_start/src/main/webapp/param.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../springmvc_day01_o1_start/target/classes/cn/itcast/controller/ParamController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springmvc_day01_o1_start/target/classes/cn/itcast/controller/ParamController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../springmvc_day01_o1_start/target/springmvc_day01_o1_start.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springmvc_day01_o1_start/target/springmvc_day01_o1_start.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../springmvc_day01_o1_start/target/springmvc_day01_o1_start/WEB-INF/classes/cn/itcast/controller/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springmvc_day01_o1_start/target/springmvc_day01_o1_start/WEB-INF/classes/cn/itcast/controller/HelloController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../springmvc_day01_o1_start/target/springmvc_day01_o1_start/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springmvc_day01_o1_start/target/springmvc_day01_o1_start/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../springmvc_day01_o1_start/target/springmvc_day01_o1_start/WEB-INF/classes/cn/itcast/controller/ParamController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springmvc_day01_o1_start/target/springmvc_day01_o1_start/WEB-INF/classes/cn/itcast/controller/ParamController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../springmvc_day01_o1_start/target/springmvc_day01_o1_start/param.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springmvc_day01_o1_start/target/springmvc_day01_o1_start/param.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606656684657</updated>
-      <workItem from="1606656686145" duration="899000" />
+      <workItem from="1606656686145" duration="1494000" />
     </task>
     <servers />
   </component>
