@@ -6,6 +6,7 @@
     <file type="web" url="file://$PROJECT_DIR$" />
     <file type="web" url="file://$PROJECT_DIR$/../springmvc_day02_01_response" />
     <file type="web" url="file://$PROJECT_DIR$/../springmvc_day02_03_exception" />
+    <file type="web" url="file://$PROJECT_DIR$/../springmvc_day02_04_interceptor" />
     <file type="web" url="file://$PROJECT_DIR$/../uploadserver/uploadserver" />
   </component>
   <component name="MavenProjectsManager">
@@ -15,6 +16,7 @@
         <option value="$PROJECT_DIR$/../springmvc_day02_01_response/pom.xml" />
         <option value="$PROJECT_DIR$/../fileuploadserver1/pom.xml" />
         <option value="$PROJECT_DIR$/../springmvc_day02_03_exception/pom.xml" />
+        <option value="$PROJECT_DIR$/../springmvc_day02_04_interceptor/pom.xml" />
       </list>
     </option>
   </component>
