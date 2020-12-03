@@ -7,8 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="fileuploadserver1" />
-        <module name="springmvc_day01_o1_start" />
         <module name="springmvc_day02_02_fileupload" />
+        <module name="springmvc_day02_03_exception" />
+        <module name="springmvc_day01_o1_start" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -17,6 +18,7 @@
       <module name="springmvc_day01_o1_start" target="1.8" />
       <module name="springmvc_day02_01_response" target="1.8" />
       <module name="springmvc_day02_02_fileupload" target="1.8" />
+      <module name="springmvc_day02_03_exception" target="1.7" />
       <module name="uploadserver" target="1.7" />
     </bytecodeTargetLevel>
   </component>
