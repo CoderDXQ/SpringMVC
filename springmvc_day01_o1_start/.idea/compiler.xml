@@ -9,6 +9,7 @@
         <module name="fileuploadserver1" />
         <module name="springmvc_day02_02_fileupload" />
         <module name="springmvc_day02_03_exception" />
+        <module name="ssm" />
         <module name="springmvc_day02_04_interceptor" />
         <module name="springmvc_day01_o1_start" />
       </profile>
@@ -21,6 +22,7 @@
       <module name="springmvc_day02_02_fileupload" target="1.8" />
       <module name="springmvc_day02_03_exception" target="1.8" />
       <module name="springmvc_day02_04_interceptor" target="1.8" />
+      <module name="ssm" target="1.8" />
       <module name="uploadserver" target="1.7" />
     </bytecodeTargetLevel>
   </component>
